@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3025" />
+        <entry key="app/src/main/res/drawable/custom_border.xml" value="0.3315" />
+        <entry key="app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.2405" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3025" />
+        <entry key="app/src/main/res/layout-land/fragment_fire_list.xml" value="0.3385416666666667" />
+        <entry key="app/src/main/res/layout-land/item_fire.xml" value="0.3385416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_danger_zone.xml" value="0.3410526315789474" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.4710900473933649" />
+        <entry key="app/src/main/res/layout/fragment_fire_detail.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_fire_list.xml" value="0.4615036231884058" />
+        <entry key="app/src/main/res/layout/fragment_fire_map.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_fire_registration.xml" value="0.26222826086956524" />
+        <entry key="app/src/main/res/layout/item_fire.xml" value="0.26222826086956524" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.35625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.347" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
